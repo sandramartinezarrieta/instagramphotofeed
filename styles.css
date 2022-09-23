@@ -1,0 +1,30 @@
+h1,p{
+text-align: center;
+}
+
+header{
+    margin: auto;
+}
+.divphoto{
+    width: 600px;
+    display: block;
+    justify-content: center;
+    margin:auto;
+    background-color: white;
+}
+img{
+    width: 100%;
+    }
+
+.text-aligne-inline{
+    display: flex;
+    justify-content: space-between
+}
+.gray{
+background-color: gray;
+}
+
+h6{
+    color: #b5b2b1;
+    float:right;
+}
